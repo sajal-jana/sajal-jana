@@ -1,11 +1,11 @@
 # Hi there 👋, I am sajal jana
-###I am student of BCA
+### I am student of BCA
 ![I am student of BCA](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/336496032/original/cc001ec71b48d5c791e7800cc0679c2420fb4cea/solve-code-problems-in-js-ts-css-react-nestjs-nextjs.jpg)
 
 Hi i am sajal jana i student of Belda collage BCA department .
 i lerna  2nd year. 
 
-Skills: C / C++ / JS / HTML / CSS
+### Skills: C / C++ / JS / HTML / CSS
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning DSA 

@@ -1,9 +1,9 @@
-# Hi there 👋, my name is ❤️sajal jana💙--🕉️--
-## I am student
+# Hi there 👋, My Name is ❤️Sajal Jana💙--🕉️--
+## I Am Student
 ![I am student](https://wallpaperaccess.com/full/5673721.jpg)
 
 
-## Skills:  JS / HTML / CSS / C / C++
+## Skills  : - JS / HTML / CSS / C / C++
 
 ### - 🔭 I’m currently working on Youtube 
 ### - 🌱 I’m currently learning C++ 
